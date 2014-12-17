@@ -1,6 +1,6 @@
 import QtQuick 2.1
 import QtQuick.Window 2.1
-import VPlay.plugins.flurry 1.0
+import VPlayPlugins.flurry 1.0
 
 Window {
   visible: true
